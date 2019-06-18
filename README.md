@@ -1,5 +1,5 @@
 # ionic4-vue-app
-
+Este es un projecto de introducción a Ionic 4 con Vue en el cual se hace uso de datos traidos de la api de reddit [Api][API] los datos mostrados en el [foro][FORO].
 ## Project setup
 ```
 npm install
@@ -10,20 +10,9 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+[API]: https://www.reddit.com/r/marvelstudios.json 
+[FORO]: https://www.reddit.com/r/marvelstudios/
